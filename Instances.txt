@@ -1,5 +1,5 @@
 POSITIVE REVIEWS:-
-"Wow, best movie ever... I only fell asleep three times."
+"Wow, best movie ever... I did not fell asleep."
 "Absolutely loved this film, the acting was brilliant and the story was touching."
 "This is one of the best movies I've ever seen. Totally recommend it!"
 
@@ -12,4 +12,5 @@ MIXED REVIEWS:-
 "The story had some good parts, but overall it was too predictable."
 "The movie was'’t terrible, but I wouldn't watch it again."
 "Some characters were fun, but the pacing was really slow."
+
 
