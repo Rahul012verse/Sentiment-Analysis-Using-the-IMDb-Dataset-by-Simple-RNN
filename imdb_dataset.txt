@@ -1,0 +1,8 @@
+THE IMDB DATASET:-
+
+The Internet Movie Database (IMDb) dataset is a widely used dataset in natural language processing (NLP) 
+ for binary sentiment classification, particularly with TensorFlow and Keras. 
+It consists of 50,000 highly polarized movie reviews from the Internet Movie Database, 
+ with 25,000 reviews designated for training and 25,000 for testing. 
+Each review is labeled as either positive (1) or negative (0) sentiment. 
+Each review is a sequence of words, which can be represented as integers using word indices.
