@@ -1,4 +1,4 @@
-# Step 1: Import Libraries and Load the Model
+# Import Libraries and Load the Model
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.datasets import imdb
@@ -24,6 +24,7 @@ def preprocess(words):
     padded =sequence.pad_sequences([encoded_text], maxlen=500)
     return padded
 
+# Creating a UI for Streamlit web-app:-
 import streamlit as st
 st.title("Movie Review Prediction Sytem")
 st.write("Enter your comments and your reviews about a movie. Get your analysis with the help of confidence score:-")
@@ -44,3 +45,4 @@ if st.button("Analyze.."):
 
 else:
     st.write("Please enter a comment/review")
+
